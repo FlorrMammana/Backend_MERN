@@ -1,0 +1,22 @@
+[
+    {
+        "title":"mouse",
+        "price":750,
+        "thumbnail":"./https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/refreshed-g203/g203-hero.png",
+        "id": 1    
+
+    },
+    {
+        "title":"monitor",
+        "price":7200,
+        "thumbnail":"./https://walmartar.vteximg.com.br/arquivos/ids/905064-1000-1000/Teclado-Gamer-Nuke-Gk302-Negro-1-483450.jpg?v=637666905929500000",
+        "id": 2  
+
+    },
+    {
+        "title":"teclado",
+        "price":1500,
+        "thumbnail":"https://www.soscomputacion.com.ar/23302-thickbox_default/monitor-gamer-gigabyte-27-g27fc-full-hd-va-1080p-curvo-165hz-1ms.jpg",
+        "id": 3       
+    }
+]
